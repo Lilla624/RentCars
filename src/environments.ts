@@ -1,7 +1,6 @@
 export const environments = {
     production:false,
     firebaseConfig: {
-        apiKey: "AIzaSyCF5UEwPucUSKRKSJz1nkJ99Z8Tmc1gzOY",
         authDomain: "carsapi-83962.firebaseapp.com",
         projectId: "carsapi-83962",
         storageBucket: "carsapi-83962.firebasestorage.app",
